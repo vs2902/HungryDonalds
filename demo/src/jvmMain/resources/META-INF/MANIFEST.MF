@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: C:\Users\Main Boss\IdeaProjects\demo\src\jvmMain\kotlin\Main
+ .kt
+
